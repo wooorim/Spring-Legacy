@@ -8,9 +8,9 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	There is no place better than home.  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P> 집이 최고다.  </P>
 </body>
 </html>
